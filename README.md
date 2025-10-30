@@ -1,4 +1,4 @@
-# Data Science Assignment – Web3 Trading Team
+# Data Science Assignment 
 **Candidate:** Vipin Mishra  
 **Project Folder:** ds_vipin_mishra  
 **Google Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1_W1Z8N7dHUfJORpDnH7qZpMph6yUelxz?usp=sharing)
